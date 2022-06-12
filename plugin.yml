@@ -1,0 +1,10 @@
+name: AimSkill
+version: 2.0
+author: RainbowYoshi
+main: fr.rainbowyoshi.aimskill.Main
+commands:
+  aimskill:
+    description: toutes les commandes pour le aimskill
+    aliases: [as]
+
+
